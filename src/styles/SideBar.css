@@ -1,0 +1,56 @@
+.side_bar {
+    min-height: 640px;
+    background-color: black;
+    color: white;
+}
+.dotted_menu{
+    margin-left: 24px;
+    
+}
+.side_menus {
+    padding: 20px ;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+/* NavItems */
+.sideBar{
+    width: 100%;
+}
+.nav-item {
+    display: inline-flex;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+}
+
+.nav-item:hover{
+    color: white;
+}
+
+.home_icon,
+.search_icon,
+.library_icon,
+.create_icon,
+.liked_icon{
+    color: white;
+}
+
+.home-icon {
+    padding: 10px auto;
+    left: 10px;
+}
+
+/* icons */
+
+
+.line{
+    width: 80%;
+    position: relative;
+    margin: 40px auto;
+    top: 90px;
+
+}
