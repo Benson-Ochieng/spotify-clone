@@ -5,7 +5,11 @@
 }
 .dotted_menu{
     margin-left: 24px;
-    
+    color: white;
+    text-decoration: none;
+}
+.dotted-menu{
+    text-decoration: none;
 }
 .side_menus {
     padding: 20px ;
@@ -51,6 +55,4 @@
     width: 80%;
     position: relative;
     margin: 40px auto;
-    top: 90px;
-
 }
